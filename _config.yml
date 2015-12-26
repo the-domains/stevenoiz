@@ -1,9 +1,7 @@
-favicon: null
 name: stevenoiz
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.99416
+typography_spectrum: 0.73873
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5
-  brandStrength: 0
-  rhythmicContrast: 1
   brandColors:
     - '#fffbf8'
     - '#fec430'
     - '#83b4ee'
     - '#0d0c12'
     - '#4d588b'
-  lightness: 0.625
-typography_spectrum: 0.73873
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 1
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  brandStrength: 0.5
+  lightness: 0.6875
+  saturation: 1
+  rhythmicContrast: 1
+purpose: []
