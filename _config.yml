@@ -1,6 +1,6 @@
 name: stevenoiz
 favicon: null
-layout_spectrum: 0.2429
+layout_spectrum: 0.50835
 typography_spectrum: 0.83389
 collections:
   - index:
@@ -33,8 +33,8 @@ color:
     - '#363240'
     - '#e0ae00'
     - '#706979'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 0.5
-  saturation: 0
+  saturation: 0.5
   rhythmicContrast: 1
 purpose: []
