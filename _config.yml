@@ -1,7 +1,7 @@
 name: stevenoiz
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.81385
+typography_spectrum: 0.83389
 collections:
   - index:
       path: /
@@ -28,13 +28,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#07060b'
-    - '#363240'
-    - '#e0ae00'
-    - '#706979'
-  brandStrength: 0.5
+    - '#1b2137'
+    - '#e17e20'
+    - '#e9c966'
+    - '#df3329'
+    - '#8c99b3'
+  brandStrength: 1
   lightness: 0.875
-  saturation: 0.625
-  rhythmicContrast: 0.5
+  saturation: 0.6875
+  rhythmicContrast: 1
 purpose: []
