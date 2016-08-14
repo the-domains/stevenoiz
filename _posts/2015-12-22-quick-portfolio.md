@@ -3,21 +3,17 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-22T21:55:42.099Z'
-dateModified: '2015-12-22T21:54:57.245Z'
+datePublished: '2016-08-14T23:12:49.158Z'
+dateModified: '2016-08-14T23:12:41.421Z'
 title: Quick Portfolio
 author: []
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 sourcePath: _posts/2015-12-22-quick-portfolio.md
-published: true
+via: {}
+starred: true
 url: quick-portfolio/index.html
 _type: Article
 
@@ -49,6 +45,5 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/634375a9-b2f5-4c8f-ae4c-bbb9b56cb2de.jpg)
 
 Like what you see? Follow me on [Instagram!][0]
-null
 
 [0]: https://www.instagram.com/stevenoiz/
