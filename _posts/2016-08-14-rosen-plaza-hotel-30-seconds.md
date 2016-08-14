@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://vimeo.com/164917969'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-14T22:56:36.177Z'
-dateModified: '2016-08-14T22:53:04.691Z'
+datePublished: '2016-08-14T23:10:40.765Z'
+dateModified: '2016-08-14T23:02:14.441Z'
 author:
   - name: Steven Grullon
     url: 'https://vimeo.com/stevenoiz'
@@ -42,15 +42,18 @@ app_links:
     id: com.vimeo.android.videoapp
 title: ''
 via: {}
-authors: []
-publisher: {}
-starred: false
 sourcePath: _posts/2016-08-14-rosen-plaza-hotel-30-seconds.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6b2457f-58e6-45a1-8d7b-2daafacd7bf8.png)
 
-  
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F164917969&amp;url=https%3A%2F%2Fvimeo.com%2F164917969&amp;image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F568643782_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
