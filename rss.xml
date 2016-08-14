@@ -4,7 +4,7 @@
         <description><![CDATA[Steven Grullon    Director Of Photography]]></description>
         <link>http://thegrid.ai./</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Aug 2016 22:56:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2016 22:56:42 GMT</lastBuildDate>
         <atom:link href="http://thegrid.ai./rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Want to see my work? Check out my Vimeo! ]]></title>
@@ -25,13 +25,6 @@
             <description><![CDATA[<article><h1>ReCaFo Instagram</h1><p></p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1f2a6468aa5c55bbc0ea00eeb8b5cb68/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F586558751_1920x1080.jpg"></article>]]></description>
             <link>https://vimeo.com/178826271</link>
             <guid isPermaLink="false">65baf005-65e0-45f0-be18-f19f36e4409c</guid>
-            <pubDate>Sun, 14 Aug 2016 22:56:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ReCaFo TV Spot]]></title>
-            <description><![CDATA[<article><h1>ReCaFo TV Spot</h1><p>Once upon a time... We saw the need for authentic Caribbean cuisine in a niche marketplace and we decided to fill it. As Jamaican migrants who were born...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4d85388d5bd5f46ea21d8c810c28f9b1/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F586559833_1920x1080.jpg"></article>]]></description>
-            <link>https://vimeo.com/178826330</link>
-            <guid isPermaLink="false">df4b9eea-a061-4be9-8c20-a307b4d7d5f4</guid>
             <pubDate>Sun, 14 Aug 2016 22:56:36 GMT</pubDate>
         </item>
         <item>
@@ -75,6 +68,13 @@
             <link>https://www.youtube.com/watch?v=7tGIfbfgV24</link>
             <guid isPermaLink="false">b07bfd40-b4b0-4414-aa24-686f1927fe14</guid>
             <pubDate>Tue, 22 Dec 2015 22:15:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Drone Cinematography Reel 2015]]></title>
+            <description><![CDATA[<article><h1>Drone Cinematography Reel 2015</h1><p>My drone demo reel for late 2015, includes some personal work and clientele work as well from city landscapes to tight pull in/out shots to out in the wild landscape shots. 4k clips are compressed to 1080p. Feel free to like and comment below, any critics, opinion, view points would be really helpful.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5351bd7f6ebaf8ccb85fe8523f83aa888b079ab4.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=hAE_SfPLzFw</link>
+            <guid isPermaLink="false">b8293711-b455-47fe-8472-43e47337dec4</guid>
+            <pubDate>Tue, 22 Dec 2015 22:14:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
