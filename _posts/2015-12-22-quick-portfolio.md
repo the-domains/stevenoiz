@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-14T23:12:49.158Z'
-dateModified: '2016-08-14T23:12:41.421Z'
+datePublished: '2016-08-14T23:12:37.035Z'
+dateModified: '2016-08-14T23:12:23.770Z'
 title: Quick Portfolio
 author: []
 authors: []
 publisher: {}
 sourcePath: _posts/2015-12-22-quick-portfolio.md
 via: {}
-starred: true
+starred: false
 url: quick-portfolio/index.html
 _type: Article
 
