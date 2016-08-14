@@ -20,8 +20,8 @@ description: >-
   work as well from city landscapes to tight pull in/out shots to out in the
   wild landscape shots. 4k clips are compressed to 1080p. Feel free to like and
   comment below, any critics, opinion, view points would be really helpful.
-datePublished: '2016-08-14T23:23:14.565Z'
-dateModified: '2016-08-14T23:23:14.182Z'
+datePublished: '2016-08-14T23:25:34.170Z'
+dateModified: '2016-08-14T23:25:10.395Z'
 author:
   - name: Stevenoiz
     url: 'https://www.youtube.com/user/Stevenoiz'
@@ -47,7 +47,7 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-starred: true
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
