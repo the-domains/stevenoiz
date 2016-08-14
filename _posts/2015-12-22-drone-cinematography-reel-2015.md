@@ -20,7 +20,11 @@ keywords:
   - aerial
   - mimck
   - gopro
-description: 'My drone demo reel for late 2015, includes some personal work and clientele work as well from city landscapes to tight pull in/out shots to out in the wild landscape shots. 4k clips are compressed to 1080p. Feel free to like and comment below, any critics, opinion, view points would be really helpful.'
+description: >-
+  My drone demo reel for late 2015, includes some personal work and clientele
+  work as well from city landscapes to tight pull in/out shots to out in the
+  wild landscape shots. 4k clips are compressed to 1080p. Feel free to like and
+  comment below, any critics, opinion, view points would be really helpful.
 inLanguage: en
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=hAE_SfPLzFw&feature=applinks'
@@ -35,13 +39,15 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=hAE_SfPLzFw'
 title: Drone Cinematography Reel 2015
-datePublished: '2015-12-22T22:14:27.204Z'
-dateModified: '2015-12-22T22:13:26.722Z'
+datePublished: '2016-08-14T23:14:18.254Z'
+dateModified: '2016-08-14T23:12:09.682Z'
 sourcePath: _posts/2015-12-22-drone-cinematography-reel-2015.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
+authors: []
+via: {}
+starred: true
 _type: VideoObject
 _context: 'http://schema.org'
 
