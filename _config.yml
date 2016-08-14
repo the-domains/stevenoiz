@@ -14,7 +14,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Steven Grullon    Director Of Photography
+title: Director Of Photography
 cta:
   domain: null
   bucket: null
