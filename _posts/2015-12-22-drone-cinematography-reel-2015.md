@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Stevenoiz
-    url: 'https://www.youtube.com/user/Stevenoiz'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=hAE_SfPLzFw'
+inLanguage: en
 keywords:
   - drone
   - duration
@@ -25,7 +20,13 @@ description: >-
   work as well from city landscapes to tight pull in/out shots to out in the
   wild landscape shots. 4k clips are compressed to 1080p. Feel free to like and
   comment below, any critics, opinion, view points would be really helpful.
-inLanguage: en
+datePublished: '2016-08-14T23:23:14.565Z'
+dateModified: '2016-08-14T23:23:14.182Z'
+author:
+  - name: Stevenoiz
+    url: 'https://www.youtube.com/user/Stevenoiz'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=hAE_SfPLzFw&feature=applinks'
     type: ios
@@ -37,16 +38,15 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=hAE_SfPLzFw&feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/watch?v=hAE_SfPLzFw'
 title: Drone Cinematography Reel 2015
-datePublished: '2016-08-14T23:14:18.254Z'
-dateModified: '2016-08-14T23:12:09.682Z'
 sourcePath: _posts/2015-12-22-drone-cinematography-reel-2015.md
-inFeed: true
-hasPage: false
-inNav: false
-authors: []
 via: {}
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 starred: true
 _type: VideoObject
 _context: 'http://schema.org'
