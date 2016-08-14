@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Steven Grullon    Director Of Photography]]></title>
-        <description><![CDATA[Steven Grullon    Director Of Photography]]></description>
+        <title><![CDATA[Director Of Photography]]></title>
+        <description><![CDATA[Director Of Photography]]></description>
         <link>http://thegrid.ai./</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Aug 2016 22:56:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2016 23:04:32 GMT</lastBuildDate>
         <atom:link href="http://thegrid.ai./rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Want to see my work? Check out my Vimeo! ]]></title>
@@ -19,6 +19,20 @@
             <link>http://thegrid.ai./welcome/index.html</link>
             <guid isPermaLink="false">e58405fd-a9ec-4e1f-aa2a-5d315c2f4eca</guid>
             <pubDate>Mon, 04 Jan 2016 06:26:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Follow me on Instagram! ]]></title>
+            <description><![CDATA[<article><h1>Follow me on Instagram! </h1><p>Portfolio: @SeamlessLight</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/018557932e1cfe36b15701243d68db79/noop.jpg?input=https%3A%2F%2Figcdn-photos-f-a.akamaihd.net%2Fhphotos-ak-xpt1%2Ft51.2885-19%2Fs150x150%2F13743238_229919267404685_390505961_a.jpg"></article>]]></description>
+            <link>https://www.instagram.com/seamlesslight/</link>
+            <guid isPermaLink="false">324653d2-54c3-4f1b-aecf-948ff5e55886</guid>
+            <pubDate>Sun, 14 Aug 2016 23:04:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Jack's Dinner]]></title>
+            <description><![CDATA[<article><h1>A Jack's Dinner</h1><p>Indulge in aged steaks and fresh seafood at Jack’s Place, a modern steakhouse adorned with the world’s largest collection of autographed celebrity caricatures.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3ecd738-1dfb-4737-a12d-b4bb2a6342ff.png"></article>]]></description>
+            <link>http://thegrid.ai./79dd16f4-30ed-46de-bbcc-740aea03303c/index.html</link>
+            <guid isPermaLink="false">79dd16f4-30ed-46de-bbcc-740aea03303c</guid>
+            <pubDate>Sun, 14 Aug 2016 22:59:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rosen Plaza Hotel 30 Seconds]]></title>
@@ -49,13 +63,6 @@
             <pubDate>Sun, 14 Aug 2016 22:56:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[ ]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3ecd738-1dfb-4737-a12d-b4bb2a6342ff.png" alt="" title="">]]></description>
-            <link>http://thegrid.ai./79dd16f4-30ed-46de-bbcc-740aea03303c/index.html</link>
-            <guid isPermaLink="false">79dd16f4-30ed-46de-bbcc-740aea03303c</guid>
-            <pubDate>Sun, 14 Aug 2016 22:46:22 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Stevenson Grullon | LinkedIn]]></title>
             <description><![CDATA[<article><h1>Stevenson Grullon | LinkedIn</h1><p>Job duties to coordinate, plan, shoot, edit and publish videos for a wide range of client projects. Bringing stories to life through all stages of the production process.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/034103b4ae73d1324dffc340471cd8cdb83a7d41.jpg"></article>]]></description>
             <link>https://www.linkedin.com/in/stevensongrullon</link>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/stevenoiz/</link>
             <guid isPermaLink="false">b7e042d5-730e-438d-82de-51f8bdf7450f</guid>
             <pubDate>Tue, 22 Dec 2015 22:42:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stevenson Grullon]]></title>
-            <description><![CDATA[<article><h1>Stevenson Grullon</h1><p>Filmmaker who wants to make photos into art.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/429b38e9e9e10481b2c4ea4167e683a1bcb7aa17.jpg"></article>]]></description>
-            <link>https://500px.com/stevenoiz</link>
-            <guid isPermaLink="false">abf06415-e037-43c6-9a73-1638d04f63e5</guid>
-            <pubDate>Tue, 22 Dec 2015 22:41:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
