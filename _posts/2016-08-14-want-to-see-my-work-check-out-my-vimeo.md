@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-15T21:57:54.379Z'
-dateModified: '2016-08-15T21:57:50.058Z'
+datePublished: '2016-08-15T22:08:02.528Z'
+dateModified: '2016-08-15T22:07:37.138Z'
 title: Telling Stories One Frame at a Time
 author:
   - name: ''
@@ -23,12 +23,16 @@ _type: Article
 # Telling Stories One Frame at a Time
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0cea3cec-8f3a-4a2d-823b-e566f62e10bc.png)
 
-# Want to see my work? 
+# What consist my work of?
 
-# Check out my Vimeo!
+My job duties consist of coordinating, planning, shoot, edit and publish videos for a wide range of client projects. Bringing stories to life through all stages of the production process.
 
-## [Vimeo][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/64b8bb55-eb7d-45b2-83cf-e902b0cd1c45.png)
+# Want to see my work? Check out my Vimeo!
+
+# [VIMEO][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7360dc96-1528-44e7-b7df-3dbad24df1ad.png)
+
+# Ready to work together?
 
 # [Contact][1]
 
