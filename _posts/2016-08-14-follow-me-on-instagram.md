@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.instagram.com/seamlesslight/'
 inLanguage: null
 keywords: []
 description: 'Portfolio: @SeamlessLight'
-datePublished: '2016-08-15T21:30:07.569Z'
-dateModified: '2016-08-15T21:30:05.744Z'
+datePublished: '2016-08-15T22:20:02.588Z'
+dateModified: '2016-08-15T22:19:38.677Z'
 author: []
 title: Follow me on Instagram!
 via: {}
@@ -24,7 +24,7 @@ _type: Article
 
 ---
 # Follow me on Instagram!
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e77b77555aa38f22d3219eca26ffe048/croprotate.png?cropheight=1184&cropwidth=1149&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F5cdaea59-7c5e-46c6-b94e-e12656f0395e.png&x=12&y=0)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe3c4798-b7dd-44a3-b3e0-72f3828f89c7.png)
 
 **Portfolio**: [@SeamlessLight][0]
 
