@@ -1,6 +1,6 @@
 name: Stevenson Grullon
 favicon: null
-layout_spectrum: 0.69135
+layout_spectrum: 0.62855
 typography_spectrum: 0.07238
 collections:
   - index:
@@ -34,7 +34,7 @@ color:
     - '#363240'
     - '#e0ae00'
     - '#706979'
-  brandStrength: 0.25
+  brandStrength: 1
   lightness: 0.1875
   saturation: 0.5
   rhythmicContrast: 1
