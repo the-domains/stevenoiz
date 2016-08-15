@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: VIMEO
-datePublished: '2016-08-15T16:58:54.345Z'
-dateModified: '2016-08-15T16:52:06.455Z'
+datePublished: '2016-08-15T17:19:57.427Z'
+dateModified: '2016-08-15T17:02:46.992Z'
 title: Want to see my work? Check out my Vimeo!
 author:
   - name: ''
