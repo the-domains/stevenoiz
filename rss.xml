@@ -4,15 +4,8 @@
         <description><![CDATA[Director Of Photography]]></description>
         <link>https://thegrid.ai/stevenoiz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Aug 2016 16:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2016 16:21:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/stevenoiz/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Want to see my work? Check out my Vimeo!]]></title>
-            <description><![CDATA[<article><h1>Want to see my work? Check out my Vimeo!</h1><p>VIMEO</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c761ec6-71de-448a-be93-f0d3db225fdf.png"></article>]]></description>
-            <link>https://thegrid.ai/stevenoiz/want-to-see-my-work-check-out-my-vimeo/index.html</link>
-            <guid isPermaLink="false">e2753464-bd24-4723-9a1d-2daf5f1f3f6e</guid>
-            <pubDate>Mon, 15 Aug 2016 16:21:20 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[You look great today!]]></title>
             <description><![CDATA[<article><h1>You look great today!</h1><p>Stevenson Grullon Upcoming Filmmaker & Photographer</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7fbfe335d21529987fa802fcaf1b49c08dd761b9.jpg"></article>]]></description>
@@ -21,11 +14,11 @@
             <pubDate>Mon, 15 Aug 2016 00:44:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[CLUB 3Nine]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c84a4f8-9088-4690-8ef4-b18ce7058d9a.png" alt="" title="">]]></description>
-            <link>https://vimeo.com/172480637</link>
-            <guid isPermaLink="false">8af7345b-6f30-4994-855a-d064b2a17254</guid>
-            <pubDate>Mon, 15 Aug 2016 16:21:13 GMT</pubDate>
+            <title><![CDATA[Want to see my work? Check out my Vimeo!]]></title>
+            <description><![CDATA[<article><h1>Want to see my work? Check out my Vimeo!</h1><p>VIMEO</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c761ec6-71de-448a-be93-f0d3db225fdf.png"></article>]]></description>
+            <link>https://thegrid.ai/stevenoiz/want-to-see-my-work-check-out-my-vimeo/index.html</link>
+            <guid isPermaLink="false">e2753464-bd24-4723-9a1d-2daf5f1f3f6e</guid>
+            <pubDate>Sun, 14 Aug 2016 23:24:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ReCaFo TV Spot]]></title>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/stevenoiz/quick-portfolio/index.html</link>
             <guid isPermaLink="false">06021764-5e48-42d5-9090-d688a1cf9358</guid>
             <pubDate>Sun, 14 Aug 2016 23:12:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CLUB 3Nine]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c84a4f8-9088-4690-8ef4-b18ce7058d9a.png">]]></description>
+            <link>https://vimeo.com/172480637</link>
+            <guid isPermaLink="false">8af7345b-6f30-4994-855a-d064b2a17254</guid>
+            <pubDate>Sun, 14 Aug 2016 22:56:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
