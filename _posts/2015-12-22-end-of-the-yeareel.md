@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Stevenoiz
-    url: 'https://www.youtube.com/user/Stevenoiz'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=7tGIfbfgV24'
+inLanguage: en
 keywords:
   - duration
   - arri
@@ -25,7 +20,13 @@ description: >-
   Equipment Used: Canon t4i Canon 5D Mk III Sony A7RII DJI RONIN M DJI Phantom 2
   GoPro Hero 3 Black ARRI 416 Contact: stevensongrullon@gmail.com Song Credit:
   Jon Hopkins - Wire
-inLanguage: en
+datePublished: '2016-08-15T16:35:58.490Z'
+dateModified: '2016-08-15T16:34:30.639Z'
+author:
+  - name: Stevenoiz
+    url: 'https://www.youtube.com/user/Stevenoiz'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=7tGIfbfgV24&feature=applinks'
     type: ios
@@ -37,16 +38,15 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=7tGIfbfgV24&feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/watch?v=7tGIfbfgV24'
 title: END OF THE YEAREEL
-datePublished: '2016-08-15T16:34:22.813Z'
-dateModified: '2016-08-14T23:12:17.868Z'
 sourcePath: _posts/2015-12-22-end-of-the-yeareel.md
-inFeed: true
-hasPage: false
-inNav: false
-authors: []
 via: {}
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 starred: false
 _type: VideoObject
 _context: 'http://schema.org'
