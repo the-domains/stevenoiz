@@ -15,9 +15,12 @@ keywords:
   - art
   - full
   - camera
-description: ''
-datePublished: '2016-08-15T16:48:32.434Z'
-dateModified: '2016-08-15T16:48:21.912Z'
+description: >-
+  Job duties to coordinate, plan, shoot, edit and publish videos for a wide
+  range of client projects. Bringing stories to life through all stages of the
+  production process.
+datePublished: '2016-08-15T16:50:35.681Z'
+dateModified: '2016-08-15T16:49:34.917Z'
 author:
   - name: ''
     url: ''
@@ -37,7 +40,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f1a3f70-ec4e-4c3d-b270-3e768a276e99.jpg)
-
-  
 <article style=""><h1>Stevenson Grullon | LinkedIn</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/034103b4ae73d1324dffc340471cd8cdb83a7d41.jpg" /></article>
