@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-15T21:55:02.538Z'
-dateModified: '2016-08-15T21:54:57.945Z'
+datePublished: '2016-08-15T21:57:54.379Z'
+dateModified: '2016-08-15T21:57:50.058Z'
 title: Telling Stories One Frame at a Time
 author:
   - name: ''
