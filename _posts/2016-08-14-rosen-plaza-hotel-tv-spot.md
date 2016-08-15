@@ -6,12 +6,11 @@ isBasedOnUrl: 'https://vimeo.com/164917969'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-14T23:41:05.375Z'
-dateModified: '2016-08-14T23:41:00.695Z'
+datePublished: '2016-08-15T16:26:18.111Z'
+dateModified: '2016-08-15T16:26:17.681Z'
 author:
-  - name: Steven Grullon
-    url: 'https://vimeo.com/stevenoiz'
-    avatar: {}
+  - name: ''
+    url: ''
 related: []
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/164917969'
@@ -42,10 +41,14 @@ app_links:
     id: com.vimeo.android.videoapp
 title: ''
 via: {}
-authors: []
-publisher: {}
-starred: false
 sourcePath: _posts/2016-08-14-rosen-plaza-hotel-tv-spot.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
