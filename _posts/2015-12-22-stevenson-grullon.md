@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://500px.com/stevenoiz'
 inLanguage: null
 keywords: []
 description: Filmmaker who wants to make photos into art.
-datePublished: '2016-08-15T21:29:34.650Z'
-dateModified: '2016-08-15T21:29:30.160Z'
+datePublished: '2016-08-15T21:34:14.641Z'
+dateModified: '2016-08-15T21:33:59.638Z'
 author:
   - name: ''
     url: ''
@@ -22,7 +22,7 @@ app_links:
     type: android
     app_store_id: '471965292'
     package: com.fivehundredpx.viewer
-title: Photography Portfolio
+title: ' '
 sourcePath: _posts/2015-12-22-stevenson-grullon.md
 via: {}
 authors: []
@@ -37,6 +37,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-## Photography Portfolio
+## 
 
 <article style=""><h1>Stevenson Grullon</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/429b38e9e9e10481b2c4ea4167e683a1bcb7aa17.jpg" /></article>
