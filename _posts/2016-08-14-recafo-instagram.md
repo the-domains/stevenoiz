@@ -8,10 +8,12 @@ keywords: []
 description: >-
   Once upon a time... We saw the need for authentic Caribbean cuisine in a niche
   marketplace and we decided to fill it. As Jamaican migrants who were born...
-datePublished: '2016-08-14T22:56:36.151Z'
-dateModified: '2016-08-14T22:56:00.388Z'
+datePublished: '2016-08-15T16:21:02.742Z'
+dateModified: '2016-08-15T16:14:46.308Z'
 author:
   - avatar: {}
+    name: ''
+    url: ''
 related: []
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/178826271'
@@ -42,6 +44,7 @@ app_links:
     id: com.vimeo.android.videoapp
 title: ReCaFo Instagram
 via: {}
+sourcePath: _posts/2016-08-14-recafo-instagram.md
 authors: []
 publisher:
   name: Vimeo
@@ -49,7 +52,6 @@ publisher:
   url: 'https://vimeo.com'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 starred: false
-sourcePath: _posts/2016-08-14-recafo-instagram.md
 _type: VideoObject
 _context: 'http://schema.org'
 
