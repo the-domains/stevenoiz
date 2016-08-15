@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-15T22:08:02.528Z'
-dateModified: '2016-08-15T22:07:37.138Z'
+datePublished: '2016-08-15T22:13:45.739Z'
+dateModified: '2016-08-15T22:13:31.329Z'
 title: Telling Stories One Frame at a Time
 author:
   - name: ''
@@ -29,12 +29,11 @@ My job duties consist of coordinating, planning, shoot, edit and publish videos 
 
 # Want to see my work? Check out my Vimeo!
 
-# [VIMEO][0]
+# Click Here VIMEO
+
+# ReCaFo Restaurant Commercial BTS
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7360dc96-1528-44e7-b7df-3dbad24df1ad.png)
 
-# Ready to work together?
+# [Contact][0]
 
-# [Contact][1]
-
-[0]: https://vimeo.com/stevenoiz
-[1]: stevensongrullon@gmail.com
+[0]: stevensongrullon@gmail.com
