@@ -1,13 +1,17 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://500px.com'
-  name: 500px
-  favicon: 'https://assetcdn.500px.org/assets/favicon-1e8257b93fb787f8ceb66b5522ee853c.ico'
-  domain: 500px.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://500px.com/stevenoiz'
+inLanguage: null
 keywords: []
 description: Filmmaker who wants to make photos into art.
+datePublished: '2016-08-15T16:49:06.551Z'
+dateModified: '2016-08-15T16:49:03.607Z'
+author:
+  - name: ''
+    url: ''
+related: []
 app_links:
   - type: ios
     app_name: 500px
@@ -18,17 +22,19 @@ app_links:
     type: android
     app_store_id: '471965292'
     package: com.fivehundredpx.viewer
-isBasedOnUrl: 'https://500px.com/stevenoiz'
 title: Stevenson Grullon
-datePublished: '2015-12-22T22:41:29.603Z'
-dateModified: '2015-12-22T22:40:52.265Z'
 sourcePath: _posts/2015-12-22-stevenson-grullon.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: 500px
+  domain: 500px.com
+  url: 'https://500px.com'
+  favicon: >-
+    https://assetcdn.500px.org/assets/favicon-1e8257b93fb787f8ceb66b5522ee853c.ico
+via: {}
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Stevenson Grullon</h1><p>Filmmaker who wants to make photos into art&amp;period;</p><img src="https://drscdn.500px.org/photo/130964325/m%3D1170/f5030ca0b9a34669cb3cfdb3d12b6902" /></article>
+<article style=""><h1>Stevenson Grullon</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/429b38e9e9e10481b2c4ea4167e683a1bcb7aa17.jpg" /></article>
