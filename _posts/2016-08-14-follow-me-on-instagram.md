@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.instagram.com/seamlesslight/'
 inLanguage: null
 keywords: []
 description: 'Portfolio: @SeamlessLight'
-datePublished: '2016-08-15T21:11:33.603Z'
-dateModified: '2016-08-15T21:11:18.055Z'
+datePublished: '2016-08-15T21:30:07.569Z'
+dateModified: '2016-08-15T21:30:05.744Z'
 author: []
 title: Follow me on Instagram!
 via: {}
