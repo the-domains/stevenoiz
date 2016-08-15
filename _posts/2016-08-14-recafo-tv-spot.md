@@ -1,16 +1,20 @@
 ---
-author:
-  - avatar: {}
-related: []
-publisher:
-  url: 'https://vimeo.com'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/178826330'
+inLanguage: null
 keywords: []
 description: >-
   Once upon a time... We saw the need for authentic Caribbean cuisine in a niche
   marketplace and we decided to fill it. As Jamaican migrants who were born...
+datePublished: '2016-08-15T16:21:07.730Z'
+dateModified: '2016-08-15T16:14:35.022Z'
+author:
+  - avatar: {}
+    name: ''
+    url: ''
+related: []
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/178826330'
     type: ios
@@ -38,16 +42,16 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/178826330'
 title: ReCaFo TV Spot
-datePublished: '2016-08-14T22:56:36.136Z'
-dateModified: '2016-08-14T22:55:31.961Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-14-recafo-tv-spot.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
