@@ -5,16 +5,20 @@ inNav: false
 inLanguage: null
 keywords: []
 description: VIMEO
-datePublished: '2016-08-15T19:18:42.437Z'
-dateModified: '2016-08-15T18:40:20.588Z'
-title: ''
+datePublished: '2016-08-15T19:19:17.927Z'
+dateModified: '2016-08-15T19:18:45.154Z'
+title: Want to see my work? Check out my Vimeo!
 author:
   - name: ''
     url: ''
 via: {}
 sourcePath: _posts/2016-08-14-want-to-see-my-work-check-out-my-vimeo.md
 authors: []
-publisher: {}
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: true
 url: want-to-see-my-work-check-out-my-vimeo/index.html
 _type: Article
