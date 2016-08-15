@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: VIMEO
-datePublished: '2016-08-15T18:40:11.021Z'
-dateModified: '2016-08-15T18:39:05.952Z'
+datePublished: '2016-08-15T19:18:42.437Z'
+dateModified: '2016-08-15T18:40:20.588Z'
 title: ''
 author:
   - name: ''
@@ -21,8 +21,6 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e43e0dea-c264-4903-8ab0-b30c78fba935.png)
-
-# 
 
 # Want to see my work? Check out my Vimeo!
 
