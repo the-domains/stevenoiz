@@ -6,11 +6,12 @@ isBasedOnUrl: 'https://www.instagram.com/seamlesslight/'
 inLanguage: null
 keywords: []
 description: 'Portfolio: @SeamlessLight'
-datePublished: '2016-08-14T23:04:29.126Z'
-dateModified: '2016-08-14T23:04:01.393Z'
+datePublished: '2016-08-15T16:20:49.858Z'
+dateModified: '2016-08-15T16:20:49.376Z'
 author: []
 title: 'Follow me on Instagram! '
 via: {}
+sourcePath: _posts/2016-08-14-follow-me-on-instagram.md
 authors: []
 publisher:
   name: instagram.com
@@ -18,12 +19,11 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-08-14-follow-me-on-instagram.md
 _context: 'http://schema.org'
 _type: Article
 
 ---
-# Follow me on Instagram! ![](https://igcdn-photos-f-a.akamaihd.net/hphotos-ak-xpt1/t51.2885-19/s150x150/13743238_229919267404685_390505961_a.jpg)
+# Follow me on Instagram! ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27f45292-47f6-46a1-b6e9-bb3c9d1383db.png)
 
 **Portfolio**: [@SeamlessLight][0]
 
