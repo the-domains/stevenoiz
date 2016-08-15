@@ -20,7 +20,11 @@ keywords:
   - a7rii
   - bmpcc
   - camerimage
-description: 'Quick end of the year Demo Reel 2015 Director of Photography Stevenson Grullon Equipment Used: Canon t4i Canon 5D Mk III Sony A7RII DJI RONIN M DJI Phantom 2 GoPro Hero 3 Black ARRI 416 Contact: stevensongrullon@gmail.com Song Credit: Jon Hopkins - Wire'
+description: >-
+  Quick end of the year Demo Reel 2015 Director of Photography Stevenson Grullon
+  Equipment Used: Canon t4i Canon 5D Mk III Sony A7RII DJI RONIN M DJI Phantom 2
+  GoPro Hero 3 Black ARRI 416 Contact: stevensongrullon@gmail.com Song Credit:
+  Jon Hopkins - Wire
 inLanguage: en
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=7tGIfbfgV24&feature=applinks'
@@ -35,13 +39,15 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=7tGIfbfgV24'
 title: END OF THE YEAREEL
-datePublished: '2015-12-22T22:15:12.650Z'
-dateModified: '2015-12-22T22:14:52.743Z'
+datePublished: '2016-08-15T16:34:22.813Z'
+dateModified: '2016-08-14T23:12:17.868Z'
 sourcePath: _posts/2015-12-22-end-of-the-yeareel.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
+authors: []
+via: {}
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
