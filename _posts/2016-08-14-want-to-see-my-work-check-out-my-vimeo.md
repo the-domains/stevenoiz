@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-16T03:30:16.315Z'
-dateModified: '2016-08-16T03:30:11.844Z'
+datePublished: '2016-08-16T03:57:56.489Z'
+dateModified: '2016-08-16T03:57:54.820Z'
 title: What does my work consist of?
 author:
   - name: ''
@@ -26,7 +26,7 @@ _type: Article
 ---
 # What does my work consist of?
 
-## Telling Stories One Frame at a Time
+# Telling Stories One Frame at a Time
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0cea3cec-8f3a-4a2d-823b-e566f62e10bc.png)
 
 # What consist my work of?
