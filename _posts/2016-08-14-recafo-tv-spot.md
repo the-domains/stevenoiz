@@ -6,13 +6,15 @@ isBasedOnUrl: 'https://vimeo.com/178826330'
 inLanguage: null
 keywords: []
 description: >-
-  Once upon a time... We saw the need for authentic Caribbean cuisine in a niche
-  marketplace and we decided to fill it. As Jamaican migrants who were born...
-datePublished: '2016-08-15T16:21:07.730Z'
-dateModified: '2016-08-15T16:14:35.022Z'
+  With reggae on the speakers and Bob Marley on the walls, it's no mistaking
+  ReCaFo (acronym for "Real Caribbean Food") for Jamaican. And trust us when we
+  say that's a good thing, as there are few other places in Bushwick to get your
+  fill of authentic jerk chicken and patties.
+datePublished: '2016-08-16T05:28:18.782Z'
+dateModified: '2016-08-16T05:28:14.231Z'
 author:
   - avatar: {}
-    name: ''
+    name: Stevenson Grullon
     url: ''
 related: []
 app_links:
