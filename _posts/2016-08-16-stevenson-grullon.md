@@ -6,9 +6,11 @@ isBasedOnUrl: 'https://500px.com/stevenoiz'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-16T05:04:09.759Z'
-dateModified: '2016-08-16T05:04:01.794Z'
-author: []
+datePublished: '2016-08-16T05:05:38.380Z'
+dateModified: '2016-08-16T05:04:31.193Z'
+author:
+  - name: ''
+    url: ''
 related: []
 app_links:
   - type: ios
@@ -40,10 +42,12 @@ app_links:
     id: com.fivehundredpx.viewer
 title: ''
 via: {}
-authors: []
-publisher: {}
-starred: false
 sourcePath: _posts/2016-08-16-stevenson-grullon.md
+authors: []
+publisher:
+  name: ''
+  url: ''
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
