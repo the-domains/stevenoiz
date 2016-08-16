@@ -19,8 +19,8 @@ description: >-
   Job duties to coordinate, plan, shoot, edit and publish videos for a wide
   range of client projects. Bringing stories to life through all stages of the
   production process.
-datePublished: '2016-08-15T16:50:35.681Z'
-dateModified: '2016-08-15T16:49:34.917Z'
+datePublished: '2016-08-16T04:36:36.120Z'
+dateModified: '2016-08-16T04:35:33.871Z'
 author:
   - name: ''
     url: ''
