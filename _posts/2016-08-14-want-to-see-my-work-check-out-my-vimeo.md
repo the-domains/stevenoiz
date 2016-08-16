@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-16T16:49:12.164Z'
-dateModified: '2016-08-16T16:46:56.122Z'
-title: What does my work consists of? | Telling Stories One Frame at a Time
+datePublished: '2016-08-16T20:05:25.606Z'
+dateModified: '2016-08-16T20:05:23.446Z'
+title: 'What does my work consists of? '
 author:
   - name: ''
     url: ''
@@ -24,7 +24,9 @@ url: want-to-see-my-work-check-out-my-vimeo/index.html
 _type: Article
 
 ---
-# What does my work consists of? | Telling Stories One Frame at a Time
+# What does my work consists of? 
+
+## Telling Stories One Frame at a Time
 
 Stevenson Grullon has shot a wide range of productions both film and digital as a Camera Operator and Director of Photography. Including Narrative, Documentaries, Music Videos, Commercials and Live Events. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0cea3cec-8f3a-4a2d-823b-e566f62e10bc.png)
 
