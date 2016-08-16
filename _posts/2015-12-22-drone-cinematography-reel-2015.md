@@ -18,10 +18,11 @@ keywords:
 description: >-
   My drone demo reel for late 2015, includes some personal work and clientele
   work as well from city landscapes to tight pull in/out shots to out in the
-  wild landscape shots. 4k clips are compressed to 1080p. Feel free to like and
-  comment below, any critics, opinion, view points would be really helpful.
-datePublished: '2016-08-15T16:21:42.363Z'
-dateModified: '2016-08-15T16:15:41.746Z'
+  wild landscape shots. 4k clips are compressed to 1080p.  Feel free to like and
+  comment below, any insights, view points would be really helpful.  Thanks for
+  watching. :)  
+datePublished: '2016-08-16T20:02:12.969Z'
+dateModified: '2016-08-16T20:02:08.826Z'
 author:
   - name: Stevenoiz
     url: 'https://www.youtube.com/user/Stevenoiz'
