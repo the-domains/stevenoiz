@@ -9,13 +9,9 @@ description: >-
   Once upon a time...   We saw the need for authentic Caribbean cuisine in a
   niche marketplace and we decided to fill it.   As Jamaican migrants who were
   born on the island we came with the knowledge of the taste, spices and
-  original techniques that make Jamaican food world renowned.  A Nervous Start
-  ​​We served our first customer on August 17, 2013 at an outdoor flea in
-  Queens, NY. This was the first day that we took our cuisine to the public. We
-  were excited yet nervous; but to our elation, our food went over well and the
-  demand has been growing ever since.
-datePublished: '2016-08-16T05:32:01.290Z'
-dateModified: '2016-08-16T05:31:57.784Z'
+  original techniques that make Jamaican food world renowned.
+datePublished: '2016-08-16T05:36:06.792Z'
+dateModified: '2016-08-16T05:36:02.643Z'
 author:
   - avatar: {}
     name: Stevenson Grullon
