@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://500px.com/stevenoiz'
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-16T05:09:20.511Z'
-dateModified: '2016-08-16T05:08:22.742Z'
+datePublished: '2016-08-16T05:10:49.176Z'
+dateModified: '2016-08-16T05:10:44.743Z'
 author:
   - name: ''
     url: ''
@@ -56,4 +56,4 @@ _type: MediaObject
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/77c14bf1-f881-4375-b650-60c3a00072d5.png)
 
-<article style=""><h1>Stevenson Grullon</h1><p>Filmmaker turning photos into art.</p><img src="https://drscdn.500px.org/photo/154165185/m%3D1170/2c7fd84ff81623eb26fe5781e77fc3d3" /></article>
+<article style=""><h1>Stevenson Grullon</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c36966d842faee25277cd03e9aed4a41/noop?input=https%3A%2F%2Fdrscdn.500px.org%2Fphoto%2F154165185%2Fm%253D1170%2F2c7fd84ff81623eb26fe5781e77fc3d3" /></article>
