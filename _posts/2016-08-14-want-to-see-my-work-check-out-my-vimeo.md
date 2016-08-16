@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-16T05:32:24.332Z'
-dateModified: '2016-08-16T05:32:20.470Z'
+datePublished: '2016-08-16T16:49:12.164Z'
+dateModified: '2016-08-16T16:46:56.122Z'
 title: What does my work consists of? | Telling Stories One Frame at a Time
 author:
   - name: ''
