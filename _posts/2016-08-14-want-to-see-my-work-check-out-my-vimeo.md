@@ -5,22 +5,28 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-15T22:15:06.307Z'
-dateModified: '2016-08-15T22:15:05.763Z'
-title: Telling Stories One Frame at a Time
+datePublished: '2016-08-16T03:30:16.315Z'
+dateModified: '2016-08-16T03:30:11.844Z'
+title: What does my work consist of?
 author:
   - name: ''
     url: ''
 via: {}
 sourcePath: _posts/2016-08-14-want-to-see-my-work-check-out-my-vimeo.md
 authors: []
-publisher: {}
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: true
 url: want-to-see-my-work-check-out-my-vimeo/index.html
 _type: Article
 
 ---
-# Telling Stories One Frame at a Time
+# What does my work consist of?
+
+## Telling Stories One Frame at a Time
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0cea3cec-8f3a-4a2d-823b-e566f62e10bc.png)
 
 # What consist my work of?
@@ -31,7 +37,7 @@ My job duties consist of coordinating, planning, shoot, edit and publish videos 
 
 # [Click Here VIMEO][0]
 
-# ReCaFo Restaurant Commercial BTS
+## ReCaFo Restaurant Commercial BTS
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7360dc96-1528-44e7-b7df-3dbad24df1ad.png)
 
 # Ready to Work together?
