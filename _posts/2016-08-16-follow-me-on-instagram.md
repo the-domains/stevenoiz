@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'BTS: @Stevenoiz'
-datePublished: '2016-08-16T20:04:57.072Z'
-dateModified: '2016-08-16T19:54:03.958Z'
+datePublished: '2016-08-16T20:10:16.422Z'
+dateModified: '2016-08-16T20:05:04.439Z'
 title: Follow me on Instagram!
 author:
   - name: Stevenson Grullon
@@ -14,9 +14,7 @@ author:
 via: {}
 sourcePath: _posts/2016-08-16-follow-me-on-instagram.md
 authors: []
-publisher:
-  name: ''
-  url: ''
+publisher: {}
 starred: false
 url: follow-me-on-instagram/index.html
 _type: Article
