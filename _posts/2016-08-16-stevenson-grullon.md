@@ -5,12 +5,12 @@ inNav: false
 isBasedOnUrl: 'https://500px.com/stevenoiz'
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-08-16T05:10:49.176Z'
-dateModified: '2016-08-16T05:10:44.743Z'
+description: Filmmaker turning photos into art.
+datePublished: '2016-08-16T05:16:20.424Z'
+dateModified: '2016-08-16T05:16:18.015Z'
 author:
-  - name: ''
-    url: ''
+  - name: Stevenson Grullon
+    url: 'https://500px.com/stevenoiz'
 related: []
 app_links:
   - type: ios
@@ -40,20 +40,18 @@ app_links:
     type: googleplay
     name: 500px
     id: com.fivehundredpx.viewer
-title: ''
+title: Photography Portfolio
 via: {}
 sourcePath: _posts/2016-08-16-stevenson-grullon.md
 authors: []
 publisher:
-  name: null
+  name: 500px
   domain: null
-  url: null
+  url: ''
   favicon: null
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/77c14bf1-f881-4375-b650-60c3a00072d5.png)
-
-<article style=""><h1>Stevenson Grullon</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c36966d842faee25277cd03e9aed4a41/noop?input=https%3A%2F%2Fdrscdn.500px.org%2Fphoto%2F154165185%2Fm%253D1170%2F2c7fd84ff81623eb26fe5781e77fc3d3" /></article>
+![Filmmaker turning photos into art.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/77c14bf1-f881-4375-b650-60c3a00072d5.png)
