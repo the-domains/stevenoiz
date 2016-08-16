@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.instagram.com/seamlesslight/'
 inLanguage: null
 keywords: []
 description: 'Portfolio: @SeamlessLight'
-datePublished: '2016-08-15T22:20:02.588Z'
-dateModified: '2016-08-15T22:19:38.677Z'
+datePublished: '2016-08-16T03:52:33.266Z'
+dateModified: '2016-08-16T03:39:42.615Z'
 author: []
 title: Follow me on Instagram!
 via: {}
@@ -23,8 +23,9 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# Follow me on Instagram!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe3c4798-b7dd-44a3-b3e0-72f3828f89c7.png)
+
+# Follow me on Instagram!
 
 **Portfolio**: [@SeamlessLight][0]
 
