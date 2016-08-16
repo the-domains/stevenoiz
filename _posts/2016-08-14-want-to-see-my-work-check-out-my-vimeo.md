@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-16T03:57:56.489Z'
-dateModified: '2016-08-16T03:57:54.820Z'
-title: What does my work consist of?
+datePublished: '2016-08-16T04:01:39.533Z'
+dateModified: '2016-08-16T04:01:27.088Z'
+title: What does my work consists of?
 author:
   - name: ''
     url: ''
@@ -24,7 +24,7 @@ url: want-to-see-my-work-check-out-my-vimeo/index.html
 _type: Article
 
 ---
-# What does my work consist of?
+# What does my work consists of?
 
 # Telling Stories One Frame at a Time
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0cea3cec-8f3a-4a2d-823b-e566f62e10bc.png)
