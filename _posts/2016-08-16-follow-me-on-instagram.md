@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-16T20:11:06.247Z'
-dateModified: '2016-08-16T20:11:03.895Z'
+datePublished: '2016-08-17T01:47:41.021Z'
+dateModified: '2016-08-17T01:46:53.101Z'
 title: Follow me on Instagram!
 author:
   - name: Stevenson Grullon
@@ -14,7 +14,11 @@ author:
 via: {}
 sourcePath: _posts/2016-08-16-follow-me-on-instagram.md
 authors: []
-publisher: {}
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: follow-me-on-instagram/index.html
 _type: Article
