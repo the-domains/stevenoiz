@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-17T00:54:07.103Z'
-dateModified: '2016-08-17T00:53:40.501Z'
+datePublished: '2016-08-17T01:46:59.460Z'
+dateModified: '2016-08-17T01:46:58.941Z'
 title: What does my work consists of? | Telling Stories One Frame at a Time
 author:
   - name: ''
@@ -41,7 +41,7 @@ My job duties consist of coordinating, planning, shoot, edit and publish videos 
 
 # Ready to Work together?
 
-# [Contact][1]
+# [Contact][1]: stevensongrullon@gmail.com
 
 [0]: https://vimeo.com/stevenoiz
 [1]: stevensongrullon@gmail.com
