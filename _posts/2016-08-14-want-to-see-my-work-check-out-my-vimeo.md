@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-16T20:13:53.935Z'
-dateModified: '2016-08-16T20:13:48.473Z'
+datePublished: '2016-08-17T00:54:07.103Z'
+dateModified: '2016-08-17T00:53:40.501Z'
 title: What does my work consists of? | Telling Stories One Frame at a Time
 author:
   - name: ''
