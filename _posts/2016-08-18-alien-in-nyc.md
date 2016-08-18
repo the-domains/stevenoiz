@@ -16,8 +16,8 @@ keywords:
   - youtube
   - vlog
 description: Video I shot with Kriscoart as a cam op in New York City.
-datePublished: '2016-08-18T06:54:09.355Z'
-dateModified: '2016-08-18T06:54:00.152Z'
+datePublished: '2016-08-18T06:56:26.003Z'
+dateModified: '2016-08-18T06:56:21.804Z'
 author:
   - avatar: {}
 related: []
@@ -60,6 +60,7 @@ app_links:
     type: ios
 title: ALIEN IN NYC
 via: {}
+sourcePath: _posts/2016-08-18-alien-in-nyc.md
 authors: []
 publisher:
   name: YouTube
@@ -67,7 +68,6 @@ publisher:
   url: 'http://youtube.com'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 starred: false
-sourcePath: _posts/2016-08-18-alien-in-nyc.md
 _type: VideoObject
 _context: 'http://schema.org'
 
