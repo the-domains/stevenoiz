@@ -1,7 +1,30 @@
-name: Stevenson Grullon
-favicon: null
-layout_spectrum: 0.7189
 typography_spectrum: 0.07238
+color:
+  brandColors:
+    - '#ffffff'
+    - '#07060b'
+    - '#363240'
+    - '#e0ae00'
+    - '#706979'
+  brandStrength: 0
+  lightness: 0.1875
+  saturation: 0.5625
+  rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.7189
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Stevenson Grullon
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +38,5 @@ collections:
     permalink:
       path: '/:title/'
 title: Director Of Photography
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#07060b'
-    - '#363240'
-    - '#e0ae00'
-    - '#706979'
-  brandStrength: 0
-  lightness: 0.1875
-  saturation: 0.5625
-  rhythmicContrast: 0.75
+description: Seamless Light
 purpose: []
